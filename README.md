@@ -1,9 +1,13 @@
-## Hi there 👋
-
+## Hi, I'm Shobhit 
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+🔭Studing Computer Science Engineering  at UPES, Dehradun
 <!--
 **shobhitverma09/shobhitverma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
+ 
+ 
 Here are some ideas to get you started:
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
